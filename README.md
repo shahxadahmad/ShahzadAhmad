@@ -122,9 +122,7 @@ Welcome to my portfolio! Software Engineer with hands-on experience in Web Devel
 
 ## 🎓 Education
 
-- **Bachelor's of Engineering in Software Engineering | Bohai University | Sep 2017 – June 2022 | GPA: 3.02**
-- Focused on software development, web technologies, and data analysis.
-- Completed projects in web development, machine learning, and system design demonstrating practical application of academic knowledge.
+- Bachelor's in Engineering Software Engineering | Bohai University, China | Sep 2017 – June 2022 | GPA: 3.02
 
 
 ---
