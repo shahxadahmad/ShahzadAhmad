@@ -156,8 +156,9 @@ Welcome to my portfolio! Software Engineer with hands-on experience in Web Devel
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahxad136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahxad136" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shahzadahmad4472/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahxad1996" height="30" width="40" /></a>
-<a href="https://medium.com/@shahxad136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahxad136" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahzadahmad4472/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linedin" height="30" width="40" /></a>
+<a href="https://medium.com/@shahxad136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Medium" height="30" width="40" /></a>
+  <a href="mailto:shahxad136@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 
