@@ -1,4 +1,4 @@
-# 📊 Portfolio – [Shahzad Ahmad]
+# 📊 Portfolio – Shahzad Ahmad
 
 Welcome to my portfolio! Software Engineer with hands-on experience in Web Development, Data Science, and MES, transforming systems and data into reliable, insight-driven solutions. Skilled in building applications, analyzing data, and supporting manufacturing operations.
 
