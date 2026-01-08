@@ -19,7 +19,7 @@ Welcome to my portfolio! Software Engineer with hands-on experience in Web Devel
 
 **Languages:** Python, PHP, SQL  
 **Tools & Visualization:** Excel, Power BI, Google Sheets, Jupyter Notebook  
-**Databases:** MySQL, PL/SQL , SQL Server 
+**Databases:** MySQL, PL/SQL, SQL Server
 **Cloud Platforms:** Google Cloud Platform (GCP)
 
 ---
@@ -69,49 +69,49 @@ Welcome to my portfolio! Software Engineer with hands-on experience in Web Devel
 ## 📈 Featured Project
 
 ### 💻 KMY Trust Website  
-*Time Period*
+*May 2020*
 
 - Developed and maintained a responsive website for KMY Trust using PHP, Laravel, HTML, CSS, and JavaScript.
 - Implemented dynamic content management, CRUD operations, and database integration to streamline data handling.
 - Improved site performance and user experience, enabling better engagement for visitors and donors.
 
 ### 🛒 E-Commerce Store 
-*Time Period*
+*2018*
 
 - Built a fully functional e-commerce platform using Laravel and MySQL, supporting product catalog, shopping cart, and checkout workflows.
 - Integrated payment gateways and inventory management to automate sales processes.
 - Enhanced user interface and optimized website speed, improving customer satisfaction and retention.
 
 ### 🏪 Khan Mobile Shop 
-*Time Period*
+*2021*
 
 - Developed a web application for managing mobile shop operations using PHP, Laravel, and SQL.
 - Implemented product listing, sales tracking, and stock management, reducing manual errors.
 - Enabled real-time reporting for shop performance, streamlining business operations.
 
 ### 🏠 House Price Prediction 
-*Time Period*
+*2023*
 
 - Built a predictive machine learning model using Python, Pandas, Scikit-learn, and Matplotlib.
 - Analyzed housing datasets, performed feature engineering, and predicted house prices with high accuracy.
 - Developed visualizations to present market trends and insights for real estate decisions.
 
 ### 📧 Email Spam Detection
-*Time Period*
+*2023*
 
 - Developed a machine learning classifier to detect spam emails using Python, NLP, and Scikit-learn.
 - Preprocessed and vectorized email text, trained models, and evaluated performance metrics like accuracy and F1-score.
 - Improved email security and automated spam filtering for better user experience.
 
 ### 🚑 First Aid Chatbot
-*Time Period*
+*2025*
 
 - Developed an AI-powered chatbot using Python and NLP techniques to provide instant first aid guidance.
 - Implemented question-answer mapping, intent recognition, and user-friendly responses.
 - Assisted users in handling emergencies by delivering accurate, real-time first aid instructions.
 
 ### 🧬 TumorOncho
-*Time Period*
+*2024*
 
 - Developed a machine learning model to detect tumor-related anomalies using Python, OpenCV, and Scikit-learn.
 - Processed medical imaging data, extracted features, and trained predictive models.
@@ -122,7 +122,7 @@ Welcome to my portfolio! Software Engineer with hands-on experience in Web Devel
 
 ## 🎓 Education
 
-- Bachelor's of Engineering in Software Engineering | Bohai University | Sep 2017 – June 2022 | GPA: 3.02
+# Bachelor's of Engineering in Software Engineering | Bohai University | Sep 2017 – June 2022 | GPA: 3.02
 - Focused on software development, web technologies, and data analysis.
 - Completed projects in web development, machine learning, and system design demonstrating practical application of academic knowledge.
 
