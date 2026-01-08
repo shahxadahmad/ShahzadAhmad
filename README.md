@@ -19,7 +19,7 @@ Welcome to my portfolio! Software Engineer with hands-on experience in Web Devel
 
 **Languages:** Python, PHP, SQL  
 **Tools & Visualization:** Excel, Power BI, Google Sheets, Jupyter Notebook  
-**Databases:** MySQL, PL/SQL, SQL Server
+**Databases:** MySQL, PL/SQL, SQL Server  
 **Cloud Platforms:** Google Cloud Platform (GCP)
 
 
